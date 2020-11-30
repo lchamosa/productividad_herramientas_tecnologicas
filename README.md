@@ -1,10 +1,10 @@
 # Sistema de Registro de Atletas en Silla de Ruedas
 
-Descripción.
+##Descripción.
 
 Esta propuesta es para la construcción en Java y MySQL de una aplicación web enfocada a apoyar a los entrenadores y atletas de la Asociación de Deportes sobre Silla de Ruedas IMSS Valle de México.
 
-Problema Identificado.
+##Problema Identificado.
 
 Una gran necesidad que presenta esta asociación es la salvaguarda de información de los atletas. Hasta la fecha, los registros de los atletas, eventos, resultados, etc. se almacenan en medios impresos (como periódicos, documentos impresos) o medios digitales (como correos electrónicos, computadoras personales, unidades USB, discos duros externos). Aún más preocupante, estos medios no están concentrados en una sola persona o ubicación; cada persona interesada puede contar con una “pieza del rompecabezas”. 
 Esta situación dificulta en extremo el mantener un registro confiable y actualizado del progreso y logros de los atletas de la Asociación. Es responsabilidad de la Asociación reportar continuamente este tipo de información a las autoridades competentes; también tiene como necesidad generar expedientes de los atletas para ser considerados en distintos eventos o reconocimientos, etc. 
