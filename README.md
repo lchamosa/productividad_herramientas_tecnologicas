@@ -86,6 +86,22 @@ Se investigo al respecto y es muy fácil la implementación en Heroku, simplemen
 5. Ya que nos hemos conectado podremos ver la sopción para hacer un “deploy” manual, en esta sección podemos elegir que Branch queremos publicar.
 6. Seleccionamos el Branch y presionamos “Deploy Branch” entonces Heroku realiza una revisión y compilación del código encontrado, si no hay errores en el codigo entonces se publica en una URL temporal.
 
+# Referencia para usuario final
+
+[Referencia de funcionalidad del sistema](https://github.com/lchamosa/productividad_herramientas_tecnologicas/blob/main/2-Dise%C3%B1o/PHT_Prototipo.pdf)
+
+# Contribucion
+
+[Documentacion de GitHub](https://github.com/lchamosa/productividad_herramientas_tecnologicas/blob/main/5-Documentacion/PHT_ContribucionGIT.pdf)
+
+# Roadmap
+
+Esta aplicación es solo una versión inicial del sistema que se esta proponiendo, en el tetramestre empresarial se incluirán los módulos siguientes que por si solos, sobre todo los módulos 2,3, y 4 tienen mucha funcionalidad implícita.
+
+1.	Administración de entrenadores.
+2.	Administración de eventos.
+3.	Administración de pruebas.
+4.	Registro del plan de entrenamiento de atletas.
 
 
  
