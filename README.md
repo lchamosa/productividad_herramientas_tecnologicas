@@ -16,10 +16,9 @@ Es por esto por lo que el objetivo del proyecto es crear un sistema/aplicación/
 
 ## Arquitectura
 
-La aplicación se ha diseñado para ser desplegada en un servidor Web para lo cual previamente se debe de contratar el “host” y el “dominio”, la arquitectura de despliegue corresponde a una aplicación simple web en donde tenemos dentro de un servidor web contratado el servidor de aplicaciones y el servidor de base de datos.  El servidor de aplicaciones debe soportar Java y el servidor de base de datos deberá contar con MySQL y el sistema web debe proveer de una página web responsiva de tal manera que pueda ser vista en una computadora, tableta o teléfono celular sin ningún problema, entiéndase por página responsiva como aquella página que se adapta al dispositivo en donde se está desplegando, reacomodando sus elementos de tal manera que sea fácil su uso y agradable visualmente. 
+[Documento de Arquitectura](https://github.com/lchamosa/productividad_herramientas_tecnologicas/blob/main/2-Dise%C3%B1o/PHT_Dise%C3%B1oArquitectura.pdf)
 
-Para la arquitectura del código se ha diseñado una estructura de clases las cuales interactúan entre si mediante objetos complejos que son tomados de la capa de entidades, es decir si alguna clase tiene alguna relación con otra y utiliza sus datos, estos serán pasados a través de un objeto del tipo de la clase correspondiente en la capa de entidades que mapee los datos de la clase origen o en su defecto una lista de objetos cuando la relación sea de uno a muchos. Además, se tiene contemplado la implementación del patrón de diseño “singleton” en las clases que contendrán datos estáticos, como es el caso de Clasificación, Lesión, TipoLesion, Acción y Rol, esto con la finalidad de optimizar la memoria del servidor al generar sólo una instancia de las clases mencionadas para todos los usuarios firmados en el sistema. 
-La estructura del código tambien contempla una construcción en cuatro capas, las cuales son la capa de datos, la de negocio y la de presentación, la última capa es la de entidades de negocio y se relaciona directamente con tres primeras capas mencionadas,  estas entidades de negocio son clases que estarán mapeando las tablas de la base de datos y servirán para pasar los datos entre las clases que forman la estructura del código fuente asi como entre las mismas capas.
+[Documento de Base de Datos](https://github.com/lchamosa/productividad_herramientas_tecnologicas/blob/main/2-Dise%C3%B1o/PHT_Dise%C3%B1oBaseDatos.pdf)
 
 # Tabla de contenidos.
 
