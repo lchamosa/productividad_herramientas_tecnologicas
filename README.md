@@ -23,7 +23,7 @@ Es por esto por lo que el objetivo del proyecto es crear un sistema/aplicación/
 # Tabla de contenidos.
 
 Enlace que redirecciona al sitio de ZUBE donde se está llevando la administración del proyecto con la metodología SCRUM por sprint, en este link se puede apreciar un tablero Kanban.
-Workspace 1 | Kanban (zube.io)
+https://zube.io/certificado-java/control-y-registro-de-atletas-en-silla-de-ruedas/w/workspace-1/kanban
 
 Enlace que redirecciona al sitio de HEROKU donde se realizaran las publicaciones del sistema.
 https://dashboard.heroku.com/apps/crasir/deploy/github
